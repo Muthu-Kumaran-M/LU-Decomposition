@@ -46,9 +46,8 @@ print(solution)
 ```
 
 ## Output:
-![Exp 5 1](https://github.com/Muthu-Kumaran-M/LU-Decomposition/assets/144979439/4a5b85b2-b2c6-472f-8b62-84c97465c25c)
-![Exp 5 2](https://github.com/Muthu-Kumaran-M/LU-Decomposition/assets/144979439/2cd11d4d-284f-42ed-bdd9-333bd2e1061e)
-
+![Exp 5 1](https://github.com/Muthu-Kumaran-M/LU-Decomposition/assets/144979439/ba13a88c-bbb1-45bb-ace0-776e74f2d365)
+![Exp 5 2](https://github.com/Muthu-Kumaran-M/LU-Decomposition/assets/144979439/e0e63004-a6fc-49b4-b4a4-7da4aa3b25b6)
 
 
 ## Result:
